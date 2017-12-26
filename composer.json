@@ -1,0 +1,19 @@
+{
+    "name": "greencel/recruitment",
+    "description": "Recruitment test to check a candidate skills",
+    "type": "project",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Vladislav Chebotarev",
+            "email": "wczebotarew@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "": ""
+        }
+    }
+}
